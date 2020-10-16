@@ -1,4 +1,4 @@
-# hyperskill_Simple_Banking_System
+# hyperskill-Simple_Banking_System
 ### About:
 This is a program which implements a simple banking system with database.
 
